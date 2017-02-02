@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E2289771E42D51900D07A74"
-               BuildableName = "Makeshift Tumblr.app"
-               BlueprintName = "Makeshift Tumblr"
-               ReferencedContainer = "container:Makeshift Tumblr.xcodeproj">
+               BlueprintIdentifier = "3D5B2D46E42ADE01692E43D3A55BC060"
+               BuildableName = "Pods_Makeshift_Tumblr.framework"
+               BlueprintName = "Pods-Makeshift Tumblr"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9E2289771E42D51900D07A74"
-            BuildableName = "Makeshift Tumblr.app"
-            BlueprintName = "Makeshift Tumblr"
-            ReferencedContainer = "container:Makeshift Tumblr.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9E2289771E42D51900D07A74"
-            BuildableName = "Makeshift Tumblr.app"
-            BlueprintName = "Makeshift Tumblr"
-            ReferencedContainer = "container:Makeshift Tumblr.xcodeproj">
+            BlueprintIdentifier = "3D5B2D46E42ADE01692E43D3A55BC060"
+            BuildableName = "Pods_Makeshift_Tumblr.framework"
+            BlueprintName = "Pods-Makeshift Tumblr"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9E2289771E42D51900D07A74"
-            BuildableName = "Makeshift Tumblr.app"
-            BlueprintName = "Makeshift Tumblr"
-            ReferencedContainer = "container:Makeshift Tumblr.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
